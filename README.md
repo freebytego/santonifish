@@ -19,7 +19,6 @@
  ## What's not working?
  - Fingerprint
  - Android APK **THIS IS NOT ANDROID, THAT MEANS THERE IS NO WAY TO RUN APK**
- - Bluetooth
  - FM Radio
  - GPS
  Maybe more stuff.
